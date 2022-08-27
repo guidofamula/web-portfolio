@@ -1,0 +1,45 @@
+@media screen and (max-width: 1050px) {
+	.about__content h1 {
+		font-size: 55px;
+	}
+
+	.about__content p {
+		font-size: 18px;
+	}
+
+	.about__content div {
+		width: 75px;
+		height: 3px;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.about__content h1 {
+		font-size: 48px;
+	}
+
+	.about__content p {
+		padding: 0 6rem;
+	}
+
+	.about__content div {
+		width: 60px;
+		height: 2px;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.about__content h1 {
+		font-size: 38px;
+	}
+
+	.about__content p {
+		font-size: 14px;
+		padding: 0 4rem;
+	}
+
+	.about__content div {
+		width: 50px;
+		height: 2px;
+	}
+}

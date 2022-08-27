@@ -1,0 +1,35 @@
+@media screen and (max-width: 1050px) {
+	.navmenu__links-container {
+		display: none;
+	}
+
+	.navmenu__navbar-menu {
+		display: flex;
+	}
+
+}
+
+@media screen and (max-width: 700px) {
+	.nav__container {
+		padding: 2rem 4rem;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.nav__container {
+		padding: 2rem;
+	}
+
+	.navmenu__navbar-menu_container {
+		top: 20px;
+	}
+
+	.navmenu__links__social-media {
+		display: none;
+	}
+
+	.navmenu__navbar-menu_container-links-social {
+		display: block;
+		padding-top: 1rem;
+	}
+}

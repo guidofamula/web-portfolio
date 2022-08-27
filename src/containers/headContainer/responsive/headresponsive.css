@@ -1,0 +1,60 @@
+@media screen and (max-width: 1050px) {
+	.hero__profil img {
+		max-width: 120px;
+		max-height: 120px;
+	}
+	.jumbotron__content p {
+		font-size: 20px;
+		padding: 0 7rem;
+		margin-bottom: 10px;
+	}
+
+	.jumbotron__content button {
+		width: 30%;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.hero__profil img {
+		margin-top: 3rem;
+		max-width: 130px;
+		max-height: 130px;
+}
+
+	.jumbotron__content p {
+		font-size: 20px;
+		line-height: 27px;
+		padding: 0 5rem;
+		margin-top: 0.50rem;
+	}
+
+	.jumbotron__content button {
+		width: 30%;
+	}
+	
+}
+
+@media screen and (max-width: 550px) {
+	.hero__profil img {
+		max-width: 100px;
+		max-height: 100px;
+		margin-top: 6rem;
+	}
+
+	.jumbotron__content h3 {
+		font-size: 22px;
+	}
+
+	.jumbotron__content p {
+		font-size: 16px;
+		padding: 0 1.9rem;
+		margin-top: -10px;
+		line-height: 20px;
+	}
+
+	.jumbotron__content button {
+		width: 50%;
+		margin-bottom: 15rem;
+		font-size: 16px;
+	}
+}

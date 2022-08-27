@@ -1,0 +1,13 @@
+.nav__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2rem 6rem;
+}
+
+.nav__container-links {
+	flex: 1;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}

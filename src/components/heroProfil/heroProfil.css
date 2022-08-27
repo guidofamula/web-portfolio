@@ -1,0 +1,7 @@
+.hero__profil img {
+	margin-top: 2rem;
+	max-width: 150px;
+	max-height: 150px;
+	border-radius: 100%;
+	outline: 1px solid white;
+}

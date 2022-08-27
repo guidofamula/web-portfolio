@@ -1,0 +1,14 @@
+.logo__freelance-image {
+	margin-right: 2rem;
+}
+
+.logo__freelance-image h3 {
+	color: #fff;
+	font-family: var(--font-family);
+	font-size: 20px;
+	line-height: 15px;
+	text-transform: capitalize;
+	margin: 0 1rem;
+	cursor: pointer;
+}
+

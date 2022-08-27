@@ -1,0 +1,12 @@
+export { default as  About } from './about/About';
+export { default as  Contact } from './contact/Contact';
+export { default as  ContactCta } from './contact/ContactCta';
+export { default as  HeroProfil } from './heroProfil/HeroProfil';
+export { default as  Jumbotron } from './jumbotron/Jumbotron';
+export { default as  LogoFreelancer } from './logoFreelancer/LogoFreelancer';
+export { default as  Navbar } from './navbar/Navbar';
+export { default as  ContentSkills } from './skills/ContentSkills';
+export { default as  Skills } from './skills/Skills';
+export { default as  Projects } from './projects/Projects';
+export { default as  Contents } from './projects/Contents';
+export { default as  Footer } from './footer/Footer';

@@ -1,0 +1,6 @@
+.about__container {
+	background: var(--color-footer);
+	margin-top: 10rem;
+	padding-top: 0.1rem;
+	padding-bottom: 5rem;
+}

@@ -1,0 +1,44 @@
+.skills__features {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+.skills__features-heading {
+	flex: 1;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column;
+	text-align: left;
+}
+
+.skills__features-heading h1 {
+	font-family: var(--font-family);
+	font-weight: 800;
+	font-size: 50px;
+	line-height: 45px;
+	text-align: center;
+	padding: 10px;
+}
+
+.skills__features-heading p {
+	font-family: var(--font-family);
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 30px;
+	color: var(--color-text);
+	margin-top: 2rem;
+	margin: 0 auto;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+
+.skills__features-container {
+	flex: 1.5;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+}

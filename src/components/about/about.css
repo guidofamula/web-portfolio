@@ -1,0 +1,27 @@
+.about__content h1 {
+	font-size: 62px;
+	margin-top: 4rem;
+	text-align: center;
+	font-family: var(--font-family);
+}
+
+.about__content p {
+	font-family: var(--font-family);
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 27px;
+	color: var(--color-text);
+	padding: 0 8rem;
+	margin-top: 1.5rem;
+	text-align: justify;
+}
+
+.about__content div {
+	margin: 0 auto;
+	width: 80px;
+	height: 5px;
+	background: var(--gradient-bar);
+	box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+	margin-bottom: 0.25rem;
+}

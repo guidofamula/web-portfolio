@@ -1,0 +1,27 @@
+.cta__social-media {
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 1rem;
+}
+
+.cta__social-media a {
+	display: flex;
+	justify-content: flex-start;
+	transition: 0.3s ease;
+	color: var(--color-footer);
+	border-radius: 50px;
+	padding: 8px;
+}
+
+.cta__social-media a:hover {
+	background-color: #212d45;
+	transform: scale(0.8);
+	cursor: pointer;
+	color: white;
+}
+
+.cta__social-media p {
+	font-family: var(--font-family);
+	display: flex;
+	flex-direction: row;
+}
